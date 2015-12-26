@@ -1,7 +1,7 @@
 {
   "name": "solid-chainsaw",
   "version": "1.0.0",
-  "description": "",
+  "description": "Playing without ;",
   "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/solid-chainsaw/issues"
   },
-  "homepage": "https://github.com/AgtLucas/solid-chainsaw#readme"
+  "homepage": "https://github.com/AgtLucas/solid-chainsaw#readme",
+  "dependencies": {
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3"
+  }
 }
