@@ -1,0 +1,19 @@
+{
+  "name": "solid-chainsaw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgtLucas/solid-chainsaw.git"
+  },
+  "author": "Lucas",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/solid-chainsaw/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/solid-chainsaw#readme"
+}
